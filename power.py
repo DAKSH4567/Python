@@ -6,7 +6,7 @@ exponent = int(input("Enter the exponent: "))
 result = 1
 
 for _ in range(abs(exponent)):
-    result *= base
+    result = base
 
 # If exponent is negative, convert result to fraction
 if exponent < 0:
