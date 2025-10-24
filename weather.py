@@ -5,3 +5,4 @@ def weather_condition():
 spring = "autumn"
 autumn = spring
 weather_condition()
+

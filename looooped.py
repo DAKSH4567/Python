@@ -16,4 +16,4 @@ else:
         count += 1
 
 print("Total digits:", count)
-
+0
